@@ -1,0 +1,36 @@
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\bin\Debug\net6.0\Vectorrot.deps.json
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\bin\Debug\net6.0\Vectorrot.dll
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\bin\Debug\net6.0\Vectorrot.pdb
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.dll
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\refint\Vectorrot.dll
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.pdb
+C:\Users\USUARIO\source\repos\Tarea de Curso de Programación\Prueba Curseada\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\ref\Vectorrot.dll
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\bin\Debug\net6.0\Vectorrot.deps.json
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\bin\Debug\net6.0\Vectorrot.dll
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\bin\Debug\net6.0\Vectorrot.pdb
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.csproj.AssemblyReference.cache
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.AssemblyInfoInputs.cache
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.AssemblyInfo.cs
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.csproj.CoreCompileInputs.cache
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.dll
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\refint\Vectorrot.dll
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.pdb
+C:\Users\nelio\Music\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\ref\Vectorrot.dll
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\bin\Debug\net6.0\Vectorrot.deps.json
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\bin\Debug\net6.0\Vectorrot.dll
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\bin\Debug\net6.0\Vectorrot.pdb
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.csproj.AssemblyReference.cache
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.AssemblyInfoInputs.cache
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.AssemblyInfo.cs
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.csproj.CoreCompileInputs.cache
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.dll
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\refint\Vectorrot.dll
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\Vectorrot.pdb
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Ajuntado\Tarea de Cursooooo\CAlgebraLineal\Vectorrot\obj\Debug\net6.0\ref\Vectorrot.dll

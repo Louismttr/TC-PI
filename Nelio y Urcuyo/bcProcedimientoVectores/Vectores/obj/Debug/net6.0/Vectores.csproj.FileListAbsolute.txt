@@ -1,0 +1,24 @@
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\bin\Debug\net6.0\Vectores.deps.json
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\bin\Debug\net6.0\Vectores.dll
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\bin\Debug\net6.0\Vectores.pdb
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.csproj.AssemblyReference.cache
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.AssemblyInfoInputs.cache
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.AssemblyInfo.cs
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.dll
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\refint\Vectores.dll
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.pdb
+C:\Users\JADPA-29\source\repos\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\ref\Vectores.dll
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\bin\Debug\net6.0\Vectores.deps.json
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\bin\Debug\net6.0\Vectores.dll
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\bin\Debug\net6.0\Vectores.pdb
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.csproj.AssemblyReference.cache
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.AssemblyInfoInputs.cache
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.AssemblyInfo.cs
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.dll
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\refint\Vectores.dll
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\Vectores.pdb
+C:\Users\PC Crossway\Desktop\UNI\II semestre\Programación I\Tarea de Cursooooo\Nelio y Urcuyo\bcProcedimientoVectores\Vectores\obj\Debug\net6.0\ref\Vectores.dll
