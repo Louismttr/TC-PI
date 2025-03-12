@@ -1,4 +1,4 @@
-### Linear Algebra Program for Programming I Class - UNI
+# Linear Algebra Program for Programming I Class - UNI
 
 Program made for the Programming I class. Its function:
 1. It has a Matrix calculator that performs `+, -, x, /`.
